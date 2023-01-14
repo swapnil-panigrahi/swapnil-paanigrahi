@@ -1,1 +1,1 @@
-# swapnil-paanigrahi
+# swapnil-panigrahi
