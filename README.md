@@ -10,9 +10,4 @@
 
 </br>
 
-<a href="https://github.com/swapnil-panigrahi/github-readme-stats](https://github-readme-stats.vercel.app/api?username=swapnil-panigrahi&show_icons=true&theme=yeblu)">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats](https://github-readme-stats.vercel.app/api?username=swapnil-panigrahi&show_icons=true&theme=yeblu)" />
-</a>
-<a href="https://github.com/anuraghazra/convoycha](https://github-readme-stats.vercel.app/api/top-langs/?username=swapnil-panigrahi&show_icons=true&theme=yeblu>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat](https://github-readme-stats.vercel.app/api/top-langs/?username=swapnil-panigrahi&show_icons=true&theme=yeblu" />
-</a>
+![critz㌹'s GitHub stats](https://github-readme-stats.vercel.app/api?username=swapnil-panigrahi&show_icons=true&theme=yeblu)
