@@ -10,4 +10,4 @@
 
 </br>
 
-![critz㌹'s GitHub stats](https://github-readme-stats.vercel.app/api?username=swapnil-panigrahi&show_icons=true&theme=bear)
+![critz㌹'s GitHub stats](https://github-readme-stats.vercel.app/api?username=swapnil-panigrahi&show_icons=true&theme=gruvbox)
