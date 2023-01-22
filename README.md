@@ -9,4 +9,5 @@
   ![image](https://user-images.githubusercontent.com/71426002/213919721-b19a7c1c-8fbb-4b8c-a4d6-cc47fd048609.png)
 
 </br>
-[![critz㌹'s GitHub stats](https://github-readme-stats.vercel.app/api?username=swapnil-panigrahi)]
+
+[![critz㌹'s GitHub stats][https://github-readme-stats.vercel.app/api?username=swapnil-panigrahi&theme=bear]
