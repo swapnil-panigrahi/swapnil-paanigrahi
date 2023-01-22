@@ -11,4 +11,4 @@
 </br>
 
 ![critz㌹'s GitHub stats](https://github-readme-stats.vercel.app/api?username=swapnil-panigrahi&show_icons=true&theme=yeblu)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swapnil-panigrahi)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swapnil-panigrahi&show_icons=true&theme=yeblu)
