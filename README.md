@@ -3,7 +3,7 @@
   <li> Hi, I am Swapnil, a CSE undergrad in his 1st year :D </li>
   <li> Currently working on a Chess Engine, Cube Solver in C </li> 
   <li> Interested in Cyber-Security, Networking, Machine Learning and probably hardware 🙃
-  <li> Grinding Elden too 👍 </li>
+  <li> Certified Elden enthusiast 👍 </li>
 <br>
   
   ![image](https://user-images.githubusercontent.com/71426002/213919721-b19a7c1c-8fbb-4b8c-a4d6-cc47fd048609.png)
