@@ -1,8 +1,7 @@
 # About Me 👋
 <ul>
   <li> Hi, I am Swapnil, a CSE undergrad in his 1st year :D </li>
-  <li> So far languages I have learnt are Python, C, HTML/CSS (i remember it, somewhat 🗿) </li>
-  <li> Learning C++, Shell Script</li>
+  <li> Currently working on a Chess Engine, Cube Solver in C </li> 
   <li> Interested in Cyber-Security, Networking, Machine Learning and probably hardware 🙃
   <li> Grinding Elden too 👍 </li>
 <br>
