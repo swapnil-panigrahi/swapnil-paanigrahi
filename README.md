@@ -14,6 +14,8 @@
 | Currenty vibin' to <br><br> <a href="https://spotify-github-profile.vercel.app/api/view?uid=xagbe6n0umj1y40or5kj9yslk&redirect=true"><img align="center" src="https://spotify-github-profile.vercel.app/api/view?uid=xagbe6n0umj1y40or5kj9yslk&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&bar_color=53b14f&bar_color_cover=true)"/></a> | <a href="https://github.com/swapnil-panigrahi/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=swapnil-panigrahi&show_icons=true&theme=yeblu" alt="critz㌹'s github stats" /> </a> |
 | :-: | :-: |
 
+### Languages and Tools:
+
 <img align="left" alt="Python" width="26px" src="https://user-images.githubusercontent.com/71426002/229275327-401c56e8-2265-4a61-8fce-2e88129290d4.svg" style="padding-right:10px;" />
 <img align="left" alt="C" width="26px" src="https://user-images.githubusercontent.com/71426002/229275377-d17012b3-2887-419c-8d37-5bb5627b5845.png" style="padding-right:10px;" />
 <img align="left" alt="C++" width="26px" src="https://user-images.githubusercontent.com/71426002/229275423-6e9e31bc-3b01-493b-86f5-6d4ff55a5ec4.svg" style="padding-right:10px;" />
