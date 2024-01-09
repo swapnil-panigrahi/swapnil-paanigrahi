@@ -1,7 +1,7 @@
 # About Me 👋
 <ul>
-  <li> Hi, I am Swapnil, a CSE undergrad in his 1st year :D </li>
-  <li> Currently working on a Chess Engine, Cube Solver in C </li> 
+  <li> Hi, I am Swapnil, a CSE sophomore at IIITD</li>
+  <li> Currently working on a Chess Engine, Codeforces Bot for personal uses </li> 
   <li> Interested in Cyber-Security, Networking, Machine Learning and probably hardware 🙃
   <li> Certified Elden enthusiast 👍 </li>
 
