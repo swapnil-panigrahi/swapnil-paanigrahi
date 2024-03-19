@@ -1,7 +1,7 @@
 # About Me 👋
 <ul>
   <li> Hi, I am Swapnil, a CSE sophomore at IIITD</li>
-  <li> Currently working on a Chess Engine, Codeforces Bot for personal uses </li> 
+  <li> Currently working on a Chess Engine, Version Control in Rust, Kernel Driver for Windows </li> 
   <li> Interested in Cyber-Security, Networking, Machine Learning and probably hardware 🙃
   <li> Certified Elden enthusiast 👍 </li>
 
